@@ -1,4 +1,3 @@
-{
-  "key12345": { "hwid": null, "active": true },
+ "key12345": { "hwid": null, "active": true },
   "abcdef789": { "hwid": null, "active": true }
-}
+"newkey123": { "hwid": null, "active": true }

@@ -1,3 +1,5 @@
-
-  "abcdef789": { "hwid": null, "active": true }
-"newkey123": { "hwid": null, "active": true }
+{
+  "TESTKEY123": {
+    "hwid": null,
+    "active": true
+}
